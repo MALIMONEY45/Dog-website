@@ -1,0 +1,15 @@
+body{
+    background-color: brown;
+    color: aliceblue;
+}
+nav{
+    background-color: bisque;
+    color: black;
+}
+.row{
+    display: flex;
+    padding: 50px 10px;
+}
+.rowitems{
+    margin: 0px 20px;
+}
